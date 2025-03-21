@@ -41,14 +41,6 @@
         {
             "type": "github",
             "url": "https://github.com/SpellSmell/selectel-cloud-storage"
-        },
-        {
-            "type": "github",
-            "url": "https://github.com/spellsmell/captcha-guru/"
-        },
-        {
-            "type": "github",
-            "url": "https://github.com/spellsmell/olap-report/"
         }
     ]
 }
