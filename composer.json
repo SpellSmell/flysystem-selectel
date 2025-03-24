@@ -1,5 +1,5 @@
 {
-    "name": "argentcrusade/flysystem-selectel",
+    "name": "spellsmell/flysystem-selectel",
     "description": "Flysystem adapter for Selectel Cloud Storage",
     "keywords": ["flysystem", "selectel"],
     "homepage": "https://github.com/argentcrusade/flysystem-selectel",
